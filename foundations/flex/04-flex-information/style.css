@@ -24,3 +24,33 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* Answers */
+body{
+  /* display:flex;
+  flex-direction:column;
+  align-items: center; */
+  text-align:center
+}
+
+
+.title{
+  margin-bottom:32px;
+}
+
+
+.images{
+  display:flex;
+  justify-content: center;
+  /* align-items:center; */
+  gap:52px;
+  /* padding:0 52px; */
+}
+
+.image2{
+  /* display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center; */
+  max-width: 200px
+}
